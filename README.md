@@ -55,6 +55,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanentrena18&layout=compact&theme=radical)
 
 ---
+## ⚡ Estadísticas de GitHub
+
+![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=juanentrena18&show_icons=true&theme=radical&count_private=true)
+
+## 🔥 Rachas de contribución
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juanentrena18&theme=radical)](https://git.io/streak-stats)
+
 
 ## 📫 Contacto / redes
 
