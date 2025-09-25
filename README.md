@@ -50,12 +50,9 @@
 
 ---
 
-## 👉 ¿Qué sigue?
+## 📊 Lenguajes más utilizados
 
-- Completar fechas exactas de cada posición, delegaciones, roles y responsabilidades  
-- Añadir métricas reales (número de artículos publicados, visitas, impacto)  
-- Incorporar logros destacados del sector (premios, reconocimiento, colaboraciones)  
-- Generar los gráficos basados en tus datos reales y añadirlos como imágenes dentro del README  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanentrena18&layout=compact&theme=radical)
 
 ---
 
