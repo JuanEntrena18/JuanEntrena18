@@ -8,41 +8,28 @@
 | Indicador | Valor estimado / objetivo | Comentario |
 |----------|----------------------------|------------|
 | Años de experiencia | 25+ | Administración de Redes-Service Desk. Ciberseguridad. Redes. |
-| Proyectos / artículos publicados | — |  |
+| Proyectos / artículos publicados | +500 | https://akihabarablues.com/author/jentrena/ |
 | Seguidores / alcance digital | — | (Ej: seguidores en LinkedIn / blog / redes) |
-| Plataformas / medios colaborados | ≥ 1 | Editor Hardware/periféricos *Akihabara Blues* :contentReference[oaicite:1]{index=1} |
 
 ---
 
 ## 🏆 Experiencia Profesional Relevante
 
+### **Administrador de Redes - Ministerio de Defensa**
+### **Respuesta ante incidentes — Ministerio de Defensa **
 ### **Editor Hardware — Akihabara Blues**  
-*Noviembre 2011 – Presente*  
-- Responsable de análisis técnico, reviews y contenido especializado. :contentReference[oaicite:2]{index=2}  
-- Cobertura de hardware, componentes y tendencias tecnológicas para el público gamer y tech.  
-- Colaboraciones con otras plataformas / medios del sector.
 
 ### Otras experiencias (a confirmar)  
 - **Comunicador / Analista** en medios de videojuegos / prensa especializada (según perfil en DeVuego) :contentReference[oaicite:3]{index=3}  
-- Posible participación en proyectos de contenidos tecnológicos, colaboraciones externas, conferencias, etc.
-
----
-
-## 📈 Gráficos y Visualizaciones (Ideas)
-
-> Aquí algunas ideas de gráficos que podrías generar y colocar en tu perfil:
-
-- Evolución anual de publicaciones/artículos escritos (2011 → 2025)  
-- Distribución porcentual por tipo de contenido (reviews, análisis técnico, opinión)  
-- Alcance / engagement mensual (lectores / shares / comentarios)  
-- Red profesional (colaboradores, conexiones destacadas)  
-
-*Para ello podrías usar herramientas como Excel, Google Sheets, Python (matplotlib, seaborn) o servicios de visualización (Flourish, Chart.js, etc.).*
-
+- Director y presentador de la primera edición de Serious Game Experience Córdoba.
+  
 ---
 
 ## 🎯 Fortalezas / Diferenciadores
 
+- Respuesta ante incidentes e investigaciones forenses informáticas
+- Ejecuciones del ciclo de inteligencia
+- Administración de sistemas y creación de proyectos de red LAN/WAN
 - Trayectoria sostenida en el mundo de videojuegos y hardware técnico  
 - Especialización en contenido técnico, análisis profundo  
 - Capacidad de adaptación a tendencias emergentes del sector  
@@ -55,22 +42,40 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanentrena18&layout=compact&theme=radical)
 
 ---
+
 ## ⚡ Estadísticas de GitHub
 
 ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=juanentrena18&show_icons=true&theme=radical&count_private=true)
+
+---
 
 ## 🔥 Rachas de contribución
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juanentrena18&theme=radical)](https://git.io/streak-stats)
 
+---
 
-## 📫 Contacto / redes
+## 📅 Publicaciones mensuales de Jentrena en 2025
 
-- LinkedIn: *(inserta tu enlace real)*  
-- Twitter / X / otras redes: *(inserta tus handles)*  
-- Correo: *(opcional si deseas mostrarlo públicamente)*  
+| Mes         | Nº de publicaciones |
+|--------------|----------------------|
+| Enero        | 2                    |
+| Febrero      | 0                    |
+| Marzo        | 2                    |
+| Abril        | 1                    |
+| Mayo         | 1                    |
+| Junio        | 2                    |
+| Julio        | 1                    |
+| Agosto       | 2                    |
+| Septiembre   | 1 (hasta mitad de mes) |
 
 ---
 
-*Versión generada como borrador para tu perfil público tipo “README profesional”. Puedo ayudarte a completarla y embellecerla con gráficos reales si me proporcionas los datos precisos.*  
+## 📫 Contacto / redes
+
+- LinkedIn: [*(https://es.linkedin.com/in/juan-entrena-garrido-b49b4054)* ]
+- Twitter / X / otras redes: *(https://x.com/juanentrena)*  
+
+---
+
 
