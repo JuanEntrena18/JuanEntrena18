@@ -7,12 +7,10 @@
 
 | Indicador | Valor estimado / objetivo | Comentario |
 |----------|----------------------------|------------|
-| Años de experiencia | 12+ | Según los datos en prensa de videojuegos figura como Editor Hardware desde noviembre de 2011 :contentReference[oaicite:0]{index=0} |
-| Proyectos / artículos publicados | — | (Aquí se puede añadir tu número real) |
+| Años de experiencia | 25+ | Administración de Redes-Service Desk. Ciberseguridad. Redes. |
+| Proyectos / artículos publicados | — |  |
 | Seguidores / alcance digital | — | (Ej: seguidores en LinkedIn / blog / redes) |
-| Plataformas / medios colaborados | ≥ 1 | Actualmente actuando como editor para *Akihabara Blues* :contentReference[oaicite:1]{index=1} |
-
-> 📌 Nota: estas cifras son referenciales, pueden ajustarse cuando dispongas del detalle real.  
+| Plataformas / medios colaborados | ≥ 1 | Editor Hardware/periféricos *Akihabara Blues* :contentReference[oaicite:1]{index=1} |
 
 ---
 
