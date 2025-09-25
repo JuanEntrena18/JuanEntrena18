@@ -16,7 +16,7 @@
 ## 🏆 Experiencia Profesional Relevante
 
 ### **Administrador de Redes - Ministerio de Defensa**
-### **Respuesta ante incidentes — Ministerio de Defensa **
+### **Respuesta ante incidentes — Ministerio de Defensa**
 ### **Editor Hardware — Akihabara Blues**  
 
 ### Otras experiencias (a confirmar)  
