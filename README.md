@@ -1,5 +1,5 @@
 # Juan Francisco Entrena Garrido  
-*CIBERSEGURIDAD | CIBERINTELIGENCIA | SOC | DFIR&IA| ADMINISTRACIÓN DE SISTEMAS WIN&LINUX | *
+*CIBERSEGURIDAD | CIBERINTELIGENCIA | SOC | DFIR&IA| ADMINISTRACIÓN DE SISTEMAS WIN&LINUX *
 
 ---
 
@@ -20,8 +20,8 @@
 ### **Editor Hardware — Akihabara Blues**  
 
 ### Otras experiencias (a confirmar)  
-- **Comunicador / Analista** en medios de videojuegos / prensa especializada (según perfil en DeVuego) :contentReference[oaicite:3]{index=3}  
-- Director y presentador de la primera edición de Serious Game Experience Córdoba.
+- **Comunicador / Analista** en medios de videojuegos / prensa especializada (según DeVuego)
+- **Director y presentador** de la primera edición de Serious Game Experience Córdoba.
   
 ---
 
