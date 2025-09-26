@@ -19,7 +19,7 @@
 ### **Respuesta ante incidentes — Ministerio de Defensa**
 ### **Editor Hardware — Akihabara Blues**  
 
-### Otras experiencias (a confirmar)  
+### Otras experiencias
 - **Comunicador / Analista** en medios de videojuegos / prensa especializada (según DeVuego)
 - **Director y presentador** de la primera edición de Serious Game Experience Córdoba.
   
