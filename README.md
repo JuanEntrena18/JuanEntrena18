@@ -16,7 +16,7 @@
 
 ## 🚀 Hito Destacado: CHC Passmanager
 
-<a href="URL_DE_TU_REPOSITORIO_CHC_PASSMANAGER" target="_blank">
+<a href="https://github.com/JuanEntrena18/CHCPassManager" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanentrena18&repo=chc-passmanager&theme=radical&bg_color=1d2a3a&title_color=f07167&icon_color=f07167" alt="CHC Passmanager">
 </a>
 
