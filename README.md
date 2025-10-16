@@ -1,26 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0081a7,100:00afb9&height=250&section=header&text=Juan%20F.%20Entrena&fontSize=70&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0081a7,100:00afb9&height=250&section=header&text=Juan%20Entrena&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block;">¡Hola! 👋 Soy Juan Francisco Entrena</h1></summary>
+    <summary><h1 style="display: inline-block;">¡Hola! 👋 Soy Juan Entrena</h1></summary>
   </ul>
 </div>
 
 <p align="center">
   Apasionado por la tecnología con más de <b>25 años de experiencia</b>, especializado en la confluencia de la <b>Ciberseguridad</b>, la <b>Ciberinteligencia</b> y la <b>Administración de Sistemas</b>. Mi carrera se ha desarrollado en entornos críticos como el Ministerio de Defensa y en el ámbito de la comunicación técnica, analizando y escribiendo sobre hardware y videojuegos. Siempre en constante aprendizaje y buscando nuevos desafíos.
 </p>
-
----
-
-## 🚀 Hito Destacado: CHC Passmanager
-
-<a href="https://github.com/JuanEntrena18/CHCPassManager" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanentrena18&repo=chc-passmanager&theme=radical&bg_color=1d2a3a&title_color=f07167&icon_color=f07167" alt="CHC Passmanager">
-</a>
-
-> **CHC Passmanager** es mi proyecto más reciente, un gestor de contraseñas seguro y eficiente. Desarrollado con el objetivo de aplicar principios de seguridad robustos en una herramienta práctica y accesible. ¡Échale un vistazo al repositorio para más detalles!
 
 ---
 
@@ -70,6 +60,16 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanentrena18&theme=radical&hide_border=true" alt="Racha de Contribuciones"/>
 </p>
 
+---
+
+## 🚀 Hito Destacado: CHC Passmanager
+
+<a href="https://github.com/JuanEntrena18/CHCPassManager" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanentrena18&repo=chc-passmanager&theme=radical&bg_color=1d2a3a&title_color=f07167&icon_color=f07167" alt="CHC Passmanager">
+</a>
+
+> **CHC Passmanager** es mi proyecto más reciente, un gestor de contraseñas seguro y eficiente. Desarrollado con el objetivo de aplicar principios de seguridad robustos en una herramienta práctica y accesible. ¡Échale un vistazo al repositorio para más detalles!
+> 
 ---
 
 ## 📫 Contacto
