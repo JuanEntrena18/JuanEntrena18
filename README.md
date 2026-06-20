@@ -62,7 +62,7 @@
 
 ---
 
-## 🚀 Hito Destacado: CHC Passmanager
+## 🚀 Hito Destacado: Stream Forger
 
 <a href="https://github.com/JuanEntrena18/Streamforge" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanentrena18&repo=streamforge&theme=radical&bg_color=1d2a3a&title_color=f07167&icon_color=f07167" alt="Stream Forger">
