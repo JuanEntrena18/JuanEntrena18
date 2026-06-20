@@ -64,11 +64,11 @@
 
 ## 🚀 Hito Destacado: CHC Passmanager
 
-<a href="https://github.com/JuanEntrena18/CHCPassManager" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanentrena18&repo=chc-passmanager&theme=radical&bg_color=1d2a3a&title_color=f07167&icon_color=f07167" alt="CHC Passmanager">
+<a href="https://github.com/JuanEntrena18/Streamforge" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanentrena18&repo=streamforge&theme=radical&bg_color=1d2a3a&title_color=f07167&icon_color=f07167" alt="Stream Forger">
 </a>
 
-> **CHC Passmanager** es mi proyecto más reciente, un gestor de contraseñas seguro y eficiente. Desarrollado con el objetivo de aplicar principios de seguridad robustos en una herramienta práctica y accesible. ¡Échale un vistazo al repositorio para más detalles!
+> **StreamForger**: StreamForger es una aplicación modular para gestionar canales de Twitch. Ofrece overlays temáticos para OBS, chat en vivo, sorteos interactivos y predicciones. Disponible como servidor Linux para producción o aplicación de escritorio Windows (Electron) sin configuración previa. 
 > 
 ---
 
